@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: beryjuorg-prom-rw-oauth2
-  namespace: monitoring-system
-data:
-  client-id: lcRSrmUpLESkVEd99eCh9fqm68sYksAIxv3zjkl0
